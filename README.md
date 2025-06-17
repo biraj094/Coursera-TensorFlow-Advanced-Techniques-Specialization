@@ -66,3 +66,11 @@ Explore generative deep learning and how AI can create new content, from style t
 [C4W2A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C4-Generative-Deep-Learning-with-TensorFlow/W2-AutoEncoders/C4W2_Assignment.ipynb
 [C4W3A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C4-Generative-Deep-Learning-with-TensorFlow/W3-Variational-AutoEncoders/C4W3_Assignment.ipynb
 [C4W4A1]: https://nbviewer.jupyter.org/github/pabaq/Coursera-TensorFlow-Advanced-Techniques-Specialization/blob/main/C4-Generative-Deep-Learning-with-TensorFlow/W4-GANs/C4W4_Assignment.ipynb
+
+
+---
+
+
+conda create --name env-tensorflow-advanced python=3.11
+
+
